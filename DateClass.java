@@ -1,3 +1,5 @@
+//Homework 3.14
+
 public class DateClass{
 	private int Date, Month, Year;
 	private static final int[] DaysPerMonth =
